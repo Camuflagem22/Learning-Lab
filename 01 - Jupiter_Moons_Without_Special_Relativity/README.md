@@ -23,9 +23,9 @@ The coolest thing about this project is that at one point i had to draw a variab
 being created out of nowhere, it's part of the program and it needs it to run.
 
 
-## Youtube Video
+### Youtube Video
 
-Link: 
+Link:    let me upload the video first
 
 ## How to Use
 
@@ -39,4 +39,4 @@ normal_orbit()
 orbits_module.draw_relative_moons(window, canvas, Earth_Array_front, Earth_Array_back)
 ```
 
-
+Then just run the program with python
