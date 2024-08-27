@@ -9,10 +9,8 @@ This would, of course, have significant consequences in causality, that is, the 
 
 Scroll to lines 155 and 157, and comment **ONLY ONE** of them.
 
-'''
-
+'''python
 normal_orbit()
 
 orbits_module.draw_relative_moons(window, canvas, Earth_Array_front, Earth_Array_back)
-
 '''
