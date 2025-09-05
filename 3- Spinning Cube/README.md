@@ -3,7 +3,7 @@
 This project applies Rotation Matrices to a set of points in the shape of a cube, in 3-dimentional space. 
 Those points are drawn to the screen, and connected with lines.
 
-(insert image here)
+![screenshot](pictures/Spinning Cube.png)
 
 
 ## How to use
