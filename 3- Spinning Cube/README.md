@@ -3,7 +3,7 @@
 This project applies Rotation Matrices to a set of points in the shape of a cube, in 3-dimentional space. 
 Those points are drawn to the screen, and connected with lines.
 
-![screenshot](pictures/Spinning Cube.png)
+![alt text]([http://url/to/img.png](https://github.com/Camuflagem22/Learning-Lab/blob/main/3-%20Spinning%20Cube/pictures/Spinning%20Cube.png))
 
 
 ## How to use
