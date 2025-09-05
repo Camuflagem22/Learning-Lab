@@ -1,6 +1,6 @@
 # Mandelbrot Fractal  - Love2D
 
-This project creates a render of the infamous **Mandelbrot Set** and draws it to a canvas.
+This project creates a render of the infamous **Mandelbrot Set** and draws it to a Canvas.
 
 The canvas is then simply drawn to the screen, to avoid having to render the whole thing again at every `love.draw()` call.
 
@@ -15,11 +15,11 @@ This project was my first contact with booth the **Canvas** feature on Love2D, a
 
 ## Julia Sets
 
-With a few tewaks to the code it's also possible to get some amazing renders of Julia Sets
+With a few tewaks to the code it's also possible to get some amazing renders of Julia Sets.
 
-![image alt](https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Julia%20Set%201.png?raw=true)
+<img src="https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Julia%20Set%201.png?raw=true" width=400 height=300>
 
-![image alt](https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Julia%20Set%202.png?raw=true)
+<img src="https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Julia%20Set%202.png?raw=true" width=400 height=300>
 
 
 ## How to use
