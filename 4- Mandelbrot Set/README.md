@@ -10,7 +10,7 @@ This project was my first contact with booth the **Canvas** feature on Love2D, a
 
 ## Mandelbrot Set
 
-![image alt](https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Mandelbrot%20Set.png?raw=true)
+<img src="https://github.com/Camuflagem22/Learning-Lab/blob/main/4-%20Mandelbrot%20Set/pictures/Mandelbrot%20Set.png?raw=true" width=700 height=700>
 
 
 ## Julia Sets
